@@ -17,7 +17,9 @@
   * [Decimal To Octal](https://github.com/TheAlgorithms/C/blob/master/conversions/decimal_to_octal.c)
   * [Decimal To Octal Recursion](https://github.com/TheAlgorithms/C/blob/master/conversions/decimal_to_octal_recursion.c)
   * [Hexadecimal To Octal](https://github.com/TheAlgorithms/C/blob/master/conversions/hexadecimal_to_octal.c)
+  * [Hexadecimal To Octal2](https://github.com/TheAlgorithms/C/blob/master/conversions/hexadecimal_to_octal2.c)
   * [Int To String](https://github.com/TheAlgorithms/C/blob/master/conversions/int_to_string.c)
+  * [Octal To Binary](https://github.com/TheAlgorithms/C/blob/master/conversions/octal_to_binary.c)
   * [Octal To Decimal](https://github.com/TheAlgorithms/C/blob/master/conversions/octal_to_decimal.c)
   * [To Decimal](https://github.com/TheAlgorithms/C/blob/master/conversions/to_decimal.c)
 
@@ -27,11 +29,12 @@
     * [Carray](https://github.com/TheAlgorithms/C/blob/master/data_structures/array/carray.h)
     * [Carray Tests](https://github.com/TheAlgorithms/C/blob/master/data_structures/array/carray_tests.c)
   * Binary Trees
-    * [Avl](https://github.com/TheAlgorithms/C/blob/master/data_structures/binary_trees/avl.c)
+    * [Avl Tree](https://github.com/TheAlgorithms/C/blob/master/data_structures/binary_trees/avl_tree.c)
     * [Binary Search Tree](https://github.com/TheAlgorithms/C/blob/master/data_structures/binary_trees/binary_search_tree.c)
     * [Create Node](https://github.com/TheAlgorithms/C/blob/master/data_structures/binary_trees/create_node.c)
     * [Recursive Traversals](https://github.com/TheAlgorithms/C/blob/master/data_structures/binary_trees/recursive_traversals.c)
-    * [Redblacktree](https://github.com/TheAlgorithms/C/blob/master/data_structures/binary_trees/redblacktree.c)
+    * [Red Black Tree](https://github.com/TheAlgorithms/C/blob/master/data_structures/binary_trees/red_black_tree.c)
+    * [Segment Tree](https://github.com/TheAlgorithms/C/blob/master/data_structures/binary_trees/segment_tree.c)
     * [Threaded Binary Trees](https://github.com/TheAlgorithms/C/blob/master/data_structures/binary_trees/threaded_binary_trees.c)
   * Dictionary
     * [Dict](https://github.com/TheAlgorithms/C/blob/master/data_structures/dictionary/dict.c)
@@ -44,9 +47,9 @@
   * Graphs
     * [Bellman Ford](https://github.com/TheAlgorithms/C/blob/master/data_structures/graphs/bellman_ford.c)
     * [Bfs](https://github.com/TheAlgorithms/C/blob/master/data_structures/graphs/bfs.c)
-    * [Bfsqueue](https://github.com/TheAlgorithms/C/blob/master/data_structures/graphs/bfsqueue.c)
+    * [Bfs Queue](https://github.com/TheAlgorithms/C/blob/master/data_structures/graphs/bfs_queue.c)
     * [Dfs](https://github.com/TheAlgorithms/C/blob/master/data_structures/graphs/dfs.c)
-    * [Dfsrecursive](https://github.com/TheAlgorithms/C/blob/master/data_structures/graphs/dfsrecursive.c)
+    * [Dfs Recursive](https://github.com/TheAlgorithms/C/blob/master/data_structures/graphs/dfs_recursive.c)
     * [Dijkstra](https://github.com/TheAlgorithms/C/blob/master/data_structures/graphs/dijkstra.c)
     * [Euler](https://github.com/TheAlgorithms/C/blob/master/data_structures/graphs/euler.c)
     * [Floyd Warshall](https://github.com/TheAlgorithms/C/blob/master/data_structures/graphs/floyd_warshall.c)
@@ -57,8 +60,8 @@
     * [Queue](https://github.com/TheAlgorithms/C/blob/master/data_structures/graphs/queue.c)
     * [Queue](https://github.com/TheAlgorithms/C/blob/master/data_structures/graphs/queue.h)
     * [Strongly Connected Components](https://github.com/TheAlgorithms/C/blob/master/data_structures/graphs/strongly_connected_components.c)
-    * [Topologicalsort](https://github.com/TheAlgorithms/C/blob/master/data_structures/graphs/topologicalsort.c)
-    * [Transitiveclosure](https://github.com/TheAlgorithms/C/blob/master/data_structures/graphs/transitiveclosure.c)
+    * [Topological Sort](https://github.com/TheAlgorithms/C/blob/master/data_structures/graphs/topological_sort.c)
+    * [Transitive Closure](https://github.com/TheAlgorithms/C/blob/master/data_structures/graphs/transitive_closure.c)
   * Hash Set
     * [Hash Set](https://github.com/TheAlgorithms/C/blob/master/data_structures/hash_set/hash_set.c)
     * [Hash Set](https://github.com/TheAlgorithms/C/blob/master/data_structures/hash_set/hash_set.h)
@@ -67,8 +70,9 @@
     * [Max Heap](https://github.com/TheAlgorithms/C/blob/master/data_structures/heap/max_heap.c)
     * [Min Heap](https://github.com/TheAlgorithms/C/blob/master/data_structures/heap/min_heap.c)
   * Linked List
-    * [Ascendingpriorityqueue](https://github.com/TheAlgorithms/C/blob/master/data_structures/linked_list/ascendingpriorityqueue.c)
-    * [Circularlinkedlist](https://github.com/TheAlgorithms/C/blob/master/data_structures/linked_list/CircularLinkedList.C)
+    * [Ascending Priority Queue](https://github.com/TheAlgorithms/C/blob/master/data_structures/linked_list/ascending_priority_queue.c)
+    * [Circular Linked List](https://github.com/TheAlgorithms/C/blob/master/data_structures/linked_list/circular_linked_list.c)
+    * [Doubly Linked List](https://github.com/TheAlgorithms/C/blob/master/data_structures/linked_list/doubly_linked_list.c)
     * [Merge Linked Lists](https://github.com/TheAlgorithms/C/blob/master/data_structures/linked_list/merge_linked_lists.c)
     * [Middle Element In List](https://github.com/TheAlgorithms/C/blob/master/data_structures/linked_list/middle_element_in_list.c)
     * [Queue Linked List](https://github.com/TheAlgorithms/C/blob/master/data_structures/linked_list/queue_linked_list.c)
@@ -111,6 +115,11 @@
 
 ## Games
   * [Tic Tac Toe](https://github.com/TheAlgorithms/C/blob/master/games/tic_tac_toe.c)
+
+## Geometry
+  * [Geometry Datatypes](https://github.com/TheAlgorithms/C/blob/master/geometry/geometry_datatypes.h)
+  * [Quaternions](https://github.com/TheAlgorithms/C/blob/master/geometry/quaternions.c)
+  * [Vectors 3D](https://github.com/TheAlgorithms/C/blob/master/geometry/vectors_3d.c)
 
 ## Graphics
   * [Spirograph](https://github.com/TheAlgorithms/C/blob/master/graphics/spirograph.c)
@@ -215,6 +224,7 @@
 
 ## Machine Learning
   * [Adaline Learning](https://github.com/TheAlgorithms/C/blob/master/machine_learning/adaline_learning.c)
+  * [K Means Clustering](https://github.com/TheAlgorithms/C/blob/master/machine_learning/k_means_clustering.c)
   * [Kohonen Som Topology](https://github.com/TheAlgorithms/C/blob/master/machine_learning/kohonen_som_topology.c)
   * [Kohonen Som Trace](https://github.com/TheAlgorithms/C/blob/master/machine_learning/kohonen_som_trace.c)
 
@@ -241,8 +251,10 @@
   * [Mirror](https://github.com/TheAlgorithms/C/blob/master/misc/mirror.c)
   * [Palindrome](https://github.com/TheAlgorithms/C/blob/master/misc/palindrome.c)
   * [Pid](https://github.com/TheAlgorithms/C/blob/master/misc/pid.c)
+  * [Poly Add](https://github.com/TheAlgorithms/C/blob/master/misc/poly_add.c)
   * [Prime](https://github.com/TheAlgorithms/C/blob/master/misc/prime.c)
   * [Prime Factoriziation](https://github.com/TheAlgorithms/C/blob/master/misc/prime_factoriziation.c)
+  * [Prime Seive](https://github.com/TheAlgorithms/C/blob/master/misc/prime_seive.c)
   * [Quartile](https://github.com/TheAlgorithms/C/blob/master/misc/quartile.c)
   * [Rselect](https://github.com/TheAlgorithms/C/blob/master/misc/rselect.c)
   * [Strong Number](https://github.com/TheAlgorithms/C/blob/master/misc/strong_number.c)
@@ -313,11 +325,14 @@
   * Problem 401
     * [Sol1](https://github.com/TheAlgorithms/C/blob/master/project_euler/problem_401/sol1.c)
   * Problem 5
-    * [Sol](https://github.com/TheAlgorithms/C/blob/master/project_euler/problem_5/sol.c)
+    * [Sol1](https://github.com/TheAlgorithms/C/blob/master/project_euler/problem_5/sol1.c)
+    * [Sol2](https://github.com/TheAlgorithms/C/blob/master/project_euler/problem_5/sol2.c)
+    * [Sol3](https://github.com/TheAlgorithms/C/blob/master/project_euler/problem_5/sol3.c)
   * Problem 6
     * [Sol](https://github.com/TheAlgorithms/C/blob/master/project_euler/problem_6/sol.c)
   * Problem 7
     * [Sol](https://github.com/TheAlgorithms/C/blob/master/project_euler/problem_7/sol.c)
+    * [Sol2](https://github.com/TheAlgorithms/C/blob/master/project_euler/problem_7/sol2.c)
   * Problem 8
     * [Sol1](https://github.com/TheAlgorithms/C/blob/master/project_euler/problem_8/sol1.c)
     * [Sol2](https://github.com/TheAlgorithms/C/blob/master/project_euler/problem_8/sol2.c)
@@ -354,6 +369,7 @@
   * [Gnome Sort](https://github.com/TheAlgorithms/C/blob/master/sorting/gnome_sort.c)
   * [Heap Sort](https://github.com/TheAlgorithms/C/blob/master/sorting/heap_sort.c)
   * [Insertion Sort](https://github.com/TheAlgorithms/C/blob/master/sorting/insertion_sort.c)
+  * [Insertion Sort Recursive](https://github.com/TheAlgorithms/C/blob/master/sorting/insertion_sort_recursive.c)
   * [Merge Sort](https://github.com/TheAlgorithms/C/blob/master/sorting/merge_sort.c)
   * [Merge Sort Nr](https://github.com/TheAlgorithms/C/blob/master/sorting/merge_sort_nr.c)
   * [Multikey Quick Sort](https://github.com/TheAlgorithms/C/blob/master/sorting/multikey_quick_sort.c)
